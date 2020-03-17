@@ -1,0 +1,12 @@
+{
+  "name": "WorldBrain-Engineering",
+  "repository": "git@github.com:WorldBrain/WorldBrain-Engineering.git",
+  "private": true,
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.3.0"
+  },
+  "dependencies": {}
+}
