@@ -1,2 +1,3 @@
 - [Home](/)
 - [Example page](/example/)
+- [Design and UI](/designUI/)
