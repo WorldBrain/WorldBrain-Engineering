@@ -1,5 +1,7 @@
 # WorldBrain engineering documentation
 
+Live page: https://worldbrain.github.io/WorldBrain-Engineering
+
 Things to document and think about:
 
 - Front-end: UILogic and TDD
